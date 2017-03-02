@@ -1,0 +1,33 @@
+{
+	"questions":
+		[
+			{
+				"questionText" : "What is a constructor?",
+				"answerText" : "An instance method that usually has the same name as the class",
+				"correctlyGuessed": 0,
+				"asked":0
+				
+			},
+			{
+				"questionText" : "What is the fourth Harry Potter movie?",
+				"answerText" : "Harry Potter and the Goblet of Fire",
+				"correctlyGuessed": 0,
+				"asked":0
+				
+			},
+			{
+				"questionText" : "When was Mickey Mouse created?",
+				"answerText" : "1928",
+				"correctlyGuessed": 0,
+				"asked":0
+				
+			},
+			{
+				"questionText" : "What is CIDM4385 also called?",
+				"answerText" : "Mobile App Development",
+				"correctlyGuessed": 0,
+				"asked":0
+				
+			}
+		]
+}
